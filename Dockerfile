@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1.1.7
-From alpine:3.13.5@sha256:1d30d1ba3cb90962067e9b29491fbd56997979d54376f23f01448b5c5cd8b462
+From alpine:3.21.3@sha256:a8560b36e8b8210634f77d9f7f9efd7ffa463e380b75e2e74aff4511df3ef88c
 
 # renovate: datasource=repology depName=alpine_3_13/freetype versioning=loose
 ARG FREETYPE_VERSION="2.10.4-r3"
